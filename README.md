@@ -55,7 +55,16 @@
 |                               매치 리스트 페이지                               |                               매치 상세 페이지                               |
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 | ![Image](https://github.com/user-attachments/assets/05d0a5ad-26f1-4f0b-b7e0-d1d8243541ad) | ![Image](https://github.com/user-attachments/assets/19ae3f1d-c438-4712-89d4-4779daef04ef)|
-|                               매치 리스트 페이지                               |                               매치 상세 페이지                               |
-![image](https://github.com/user-attachments/assets/9572d04f-c520-4320-8521-a33919fa459e)
+|                               매치 리스트 페이지                               |                               실시간 채팅 페이지 유저1                              |
+![image](https://github.com/user-attachments/assets/9572d04f-c520-4320-8521-a33919fa459e) | ![image](https://github.com/user-attachments/assets/36439e8e-daac-4c85-9623-2c7b60946a8d)|
+|                               실시간 채팅 페이지 유저2                              |                              신고 관리 페이지                               |
+![image](https://github.com/user-attachments/assets/de7b52c4-e05e-445e-a16f-2d0e9c0e190e) | ![image](https://github.com/user-attachments/assets/01b12c2e-2c5c-4efd-ab30-8f49b6616383)|
+|                               댓글/게시글 신고 페이지                              |                               신고 관리 페이지                               |
+![image](https://github.com/user-attachments/assets/9251e4b6-7e02-4dfc-bbe6-e09dacf0c2ed) | ![image](https://github.com/user-attachments/assets/01b12c2e-2c5c-4efd-ab30-8f49b6616383)|
+
+
+
+
+
 
 
