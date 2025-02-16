@@ -48,21 +48,25 @@
 
 ## 📑 DEMO
 
-|                               메인 페이지                               |                               기업 페이지 - 차단 고객                               |
-| :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| ![Image](https://github.com/user-attachments/assets/c7f91ea5-b554-456c-bf26-fd2f800040e0) | ![Image](https://github.com/user-attachments/assets/11417949-a100-47a8-86ef-d30a96bb81c1)|
+| 메인 페이지 | 기업 페이지 - 차단 고객 |
+| :--------: | :--------: |
+| <img src="https://github.com/user-attachments/assets/c7f91ea5-b554-456c-bf26-fd2f800040e0" width="960"> | <img src="https://github.com/user-attachments/assets/11417949-a100-47a8-86ef-d30a96bb81c1" width="960"> |
 
-|                               매치 리스트 페이지                               |                               매치 상세 페이지                               |
-| :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| ![Image](https://github.com/user-attachments/assets/05d0a5ad-26f1-4f0b-b7e0-d1d8243541ad) | ![Image](https://github.com/user-attachments/assets/19ae3f1d-c438-4712-89d4-4779daef04ef)|
-|                               My 매치 리스트 페이지                               |                               실시간 채팅 페이지 유저1                              |
-![image](https://github.com/user-attachments/assets/9572d04f-c520-4320-8521-a33919fa459e) | ![image](https://github.com/user-attachments/assets/1ed1167b-3f54-4e29-b30b-86a127c73fcd)|
-|                               실시간 채팅 페이지 유저2                              |                              신고 관리 페이지                               |
-![image](https://github.com/user-attachments/assets/0a862786-6b4c-44d8-badd-2424b418bece) | ![image](https://github.com/user-attachments/assets/01b12c2e-2c5c-4efd-ab30-8f49b6616383)|
-|                               댓글/게시글 신고 페이지                              |  
-![image](https://github.com/user-attachments/assets/9251e4b6-7e02-4dfc-bbe6-e09dacf0c2ed) |
+| 매치 리스트 페이지 | 매치 상세 페이지 |
+| :--------: | :--------: |
+| <img src="https://github.com/user-attachments/assets/05d0a5ad-26f1-4f0b-b7e0-d1d8243541ad" width="960"> | <img src="https://github.com/user-attachments/assets/19ae3f1d-c438-4712-89d4-4779daef04ef" width="960"> |
 
+| My 매치 리스트 페이지 | 실시간 채팅 페이지 유저1 |
+| :--------: | :--------: |
+| <img src="https://github.com/user-attachments/assets/9572d04f-c520-4320-8521-a33919fa459e" width="960"> | <img src="https://github.com/user-attachments/assets/1ed1167b-3f54-4e29-b30b-86a127c73fcd" width="960"> |
 
+| 실시간 채팅 페이지 유저2 | 신고 관리 페이지 |
+| :--------: | :--------: |
+| <img src="https://github.com/user-attachments/assets/0a862786-6b4c-44d8-badd-2424b418bece" width="960"> | <img src="https://github.com/user-attachments/assets/01b12c2e-2c5c-4efd-ab30-8f49b6616383" width="960"> |
+
+| 댓글/게시글 신고 페이지 |
+| :--------: |
+| <img src="https://github.com/user-attachments/assets/9251e4b6-7e02-4dfc-bbe6-e09dacf0c2ed" width="960"> |
 
 
 
