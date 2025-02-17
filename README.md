@@ -68,7 +68,7 @@
 | :--------: |
 | <img src="https://github.com/user-attachments/assets/9251e4b6-7e02-4dfc-bbe6-e09dacf0c2ed" width="960"> |
 
-## Contribute File Structure
+## The file structure I contributed
 ```
 ├─main
 │  │  .DS_Store
