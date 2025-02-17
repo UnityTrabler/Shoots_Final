@@ -68,7 +68,104 @@
 | :--------: |
 | <img src="https://github.com/user-attachments/assets/9251e4b6-7e02-4dfc-bbe6-e09dacf0c2ed" width="960"> |
 
+## Contribute File Structure
+├─main
+│  │  .DS_Store
+│  │
+│  ├─java
+│  │  ├─com
+│  │  │  └─Shoots
+│  │  │      │  ShootsApplication.java
+│  │  │      │  WebConfig.java
+│  │  │      │
+│  │  │      ├─controller
+│  │  │      │      ReportController.java
 
+│  │  │      │
+│  │  │      ├─domain
+│  │  │      │      Board.java
+│  │  │      │      chat_room.java
+│  │  │      │      chat_room_log.java
+│  │  │      │      Report.java
 
-
-
+│  │  │      │
+│  │  │      ├─livechat
+│  │  │      │  │  ChatController.java
+│  │  │      │  │  ChatMessage.java
+│  │  │      │  │  MessageType.java
+│  │  │      │  │
+│  │  │      │  └─config
+│  │  │      │          MyWebSocketHandler.java
+│  │  │      │          WebSocketConfig.java
+│  │  │      │          WebSocketEventListener.java
+│  │  │      │
+│  │  │      ├─mybatis
+│  │  │      │  └─mapper
+│  │  │      │          chat_mapper.java
+│  │  │      │          ReportMapper.java
+│  │  │      │
+│  │  │      ├─security
+│  │  │      │      WebSocketSecurityConfig.java
+│  │  │      │
+│  │  │      ├─service
+│  │  │      │  │  chat_service.java
+│  │  │      │  │  chat_serviceImpl.java
+│  │  │      │  │  ReportService.java
+│  │  │      │  │  ReportServiceImpl.java
+│  │  │      │  │
+│  │  │      │
+│  │  │
+│  └─resources
+│      │  application-deploy.properties
+│      │  application.properties
+│      │
+│      ├─mybatis
+│      │  ├─config
+│      │  │      mybatis-config.xml
+│      │  │
+│      │  └─mapper
+│      │          Chat.xml
+│      │          Report.xml
+│      │
+│      ├─static
+│      │  ├─css
+│      │  │      livechat.css
+│      │  ├─js
+│      │  │  │  livechat.js
+│      │  │  │  postList.js
+│      │  │  │  postView.js
+│      │  │  │
+│      │  │
+│      │  └─sql
+│      │          chat_room.sql
+│      │          report.sql
+│      │
+│      └─templates
+│          ├─admin
+│          │      postList.html
+│          │      reportList.html
+│          │
+│          │
+│          ├─livechat
+│          │      livechat.html
+│          │
+│          ├─notice
+│          │      noticeDetail.html
+│          │      noticeList.html
+│          │
+│          ├─post
+│          │      post_list.html
+│          │      post_view.html
+│          │
+│          └─report
+│                  post1.html
+│                  post2.html
+│                  reportAdd.html
+│                  reportList.html
+│                  reportView.html
+│
+└─test
+    └─java
+        └─com
+            └─Shoots
+                    ShootsApplicationTests.java
